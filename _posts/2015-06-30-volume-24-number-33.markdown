@@ -7,7 +7,7 @@ author:     "Tapir Conservation Editor"
 header-img: "img/July2015cover.jpg"
 ---
 
-**[Presencia y primeras fotografías del Tapir de Tierras Bajas (Tapirus terrestris) en el Parque Nacional Natural Paramillo, Córdoba, Colombia.](http://dx.doi.org/10.5281/zenodo.23411)**
+*[Presencia y primeras fotografías del Tapir de Tierras Bajas (_Tapirus terrestris_) en el Parque Nacional Natural Paramillo, Córdoba, Colombia.](http://dx.doi.org/10.5281/zenodo.23411)*
 Racero-Casarrubia, Javier ; Arias-Alzate, Andrés [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23411.svg)](http://dx.doi.org/10.5281/zenodo.23411)
 
 
