@@ -7,12 +7,15 @@ author:     "Tapir Conservation Editor"
 header-img: "img/July2015cover.jpg"
 ---
 
-###[Integrating Current Range-Wide Occurrence Data with Species Distribution Models to Map the Potential Distribution of Baird’s Tapir.](http://dx.doi.org/10.5281/zenodo.23417)
+**[Presencia y primeras fotografías del Tapir de Tierras Bajas (Tapirus terrestris) en el Parque Nacional Natural Paramillo, Córdoba, Colombia.](http://dx.doi.org/10.5281/zenodo.23411)**
+Racero-Casarrubia, Javier ; Arias-Alzate, Andrés [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23411.svg)](http://dx.doi.org/10.5281/zenodo.23411)
+
+
+###[Integrating Current Range-Wide Occurrence Data with Species Distribution Models to Map the Potential Distribution of Baird’s Tapir.](http://dx.doi.org/10.5281/zenodo.23417 "click here for more details")
 Schank, Cody ; Mendoza, Eduardo ; García Vettorazzi, Manolo J. ; Cove, Michael V. ; Jordan, Christopher A. ; O‘Farrill, Georgina ; Meyer, Ninon ; Lizcano, Diego J. ; Estrada, Nereyda ; Poot, Celso ; Leonardo, Raquel
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23417.svg)](http://dx.doi.org/10.5281/zenodo.23417)
 
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
 <p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
 
