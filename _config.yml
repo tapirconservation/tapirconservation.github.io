@@ -1,0 +1,17 @@
+# Site settings
+title: Tapir Conservation
+header-img: img/home-bg.jpg
+email: andersgs@gmail.com
+description: "The IUCN/SSC Tapir Specialist Group publishes Tapir Conservation twice a year, in June and December"
+baseurl: ""
+url: "http://tapirconservation.github.io"
+twitter_username: IUCN_Tapirs 
+github_username:  dlizcano
+facebook_username:  IUCN Tapirs
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
