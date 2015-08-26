@@ -10,11 +10,12 @@ header-img: "img/July2015cover.jpg"
 [Presencia y primeras fotografías del Tapir de Tierras Bajas (__Tapirus terrestris__) en el Parque Nacional Natural Paramillo, Córdoba, Colombia.](http://dx.doi.org/10.5281/zenodo.23411 "Click for more details")
 Racero-Casarrubia, Javier; Arias-Alzate, Andrés [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23411.svg)](http://dx.doi.org/10.5281/zenodo.23411)
 
-####[Vampire Bats Bite Lowland Tapirs in Yasuni National Park, Ecuador](http://dx.doi.org/10.5281/zenodo.22648 "Click for more details")
-Castellanos, Armando; Banegas, Gabriela [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23411.svg)](http://dx.doi.org/10.5281/zenodo.23411)
+####[Vampire Bats Bite Lowland Tapirs in Yasuni National Park, Ecuador. Castellanos, Armando; Banegas, Gabriela](http://dx.doi.org/10.5281/zenodo.22648 "Click for more details")
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23411.svg)](http://dx.doi.org/10.5281/zenodo.23411)
 
 
-#####[Integrating Current Range-Wide Occurrence Data with Species Distribution Models to Map the Potential Distribution of Baird’s Tapir.](http://dx.doi.org/10.5281/zenodo.23417 "click here for more details")
+#####[Integrating Current Range-Wide Occurrence Data with Species Distribution Models to Map the Potential Distribution of Baird’s Tapir.](http://dx.doi.org/10.5281/zenodo.23417 "click here for more details").
+
 ######Schank, Cody; Mendoza, Eduardo; García Vettorazzi, Manolo J.; Cove, Michael V.; Jordan, Christopher A.; O‘Farrill, Georgina; Meyer, Ninon; Lizcano, Diego J.; Estrada, Nereyda; Poot, Celso; Leonardo, Raquel
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23417.svg)](http://dx.doi.org/10.5281/zenodo.23417)
 
