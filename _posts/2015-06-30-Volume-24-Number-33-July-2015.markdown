@@ -3,7 +3,7 @@ layout:     post
 title:      "Volume 24, Number 33, July, 2015"
 subtitle:   "Crop-raiding Baird’s Tapir provoke subsistence farmers in Belize, a reintroduced Andean tapir attacks a person in Ecuador, occurrence data and distribution of Baird’s Tapir, and much more"
 date:       2015-06-30 12:00:00
-author:     "Anders Gongalves"
+author:     "Anders"
 header-img: "img/post-bg-06.jpg"
 ---
 
