@@ -14,8 +14,16 @@ header-img: "img/July2015cover.jpg"
 
 #####[Vampire Bats Bite Lowland Tapirs in Yasuni National Park, Ecuador.](http://dx.doi.org/10.5281/zenodo.22648 "Click for more details")
 
-######Castellanos, Armando; Banegas, Gabriela[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23411.svg)](http://dx.doi.org/10.5281/zenodo.23411)
+######Castellanos, Armando; Banegas, Gabriela
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.22648.svg)](http://dx.doi.org/10.5281/zenodo.22648)
 <p> </p>
+
+#####[Reintroduced Andean Tapir Attacks a Person in the Antisana Ecological Reserve, Ecuador.](http://dx.doi.org/10.5281/zenodo.23408 "Click for more details")
+######Castellanos, Armando; Gomez, Leopoldo
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23408.svg)](http://dx.doi.org/10.5281/zenodo.23408)
+<p> </p>
+
+
 
 #####[Integrating Current Range-Wide Occurrence Data with Species Distribution Models to Map the Potential Distribution of Baird’s Tapir.](http://dx.doi.org/10.5281/zenodo.23417 "click here for more details").
 
