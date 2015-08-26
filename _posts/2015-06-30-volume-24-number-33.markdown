@@ -15,7 +15,7 @@ Castellanos, Armando; Banegas, Gabriela [![DOI](https://zenodo.org/badge/doi/10.
 
 
 #####[Integrating Current Range-Wide Occurrence Data with Species Distribution Models to Map the Potential Distribution of Baird’s Tapir.](http://dx.doi.org/10.5281/zenodo.23417 "click here for more details")
-######Schank, Cody ; Mendoza, Eduardo ; García Vettorazzi, Manolo J. ; Cove, Michael V. ; Jordan, Christopher A. ; O‘Farrill, Georgina ; Meyer, Ninon ; Lizcano, Diego J. ; Estrada, Nereyda ; Poot, Celso ; Leonardo, Raquel
+######Schank, Cody; Mendoza, Eduardo; García Vettorazzi, Manolo J.; Cove, Michael V.; Jordan, Christopher A.; O‘Farrill, Georgina; Meyer, Ninon; Lizcano, Diego J.; Estrada, Nereyda; Poot, Celso; Leonardo, Raquel
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23417.svg)](http://dx.doi.org/10.5281/zenodo.23417)
 
 
