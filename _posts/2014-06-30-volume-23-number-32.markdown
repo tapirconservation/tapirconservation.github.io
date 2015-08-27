@@ -7,15 +7,15 @@ author:     "Tapir Conservation Editor"
 header-img: "img/July2014cover.jpg"
 ---
 
-#####[Presencia y primeras fotografías del Tapir de Tierras Bajas (_Tapirus terrestris_) en el Parque Nacional Natural Paramillo, Córdoba, Colombia.](http://dx.doi.org/10.5281/zenodo.23411 "Click for more details")
+#####[The lowland tapir Tapirus terrestris is back to the largest protected area of Cerrado in the state of São Paulo, Brazil.](http://dx.doi.org/10.5281/zenodo.23411 "Link soon")
 
-######Racero-Casarrubia, Javier; Arias-Alzate, Andrés[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23411.svg)](http://dx.doi.org/10.5281/zenodo.23411)
+######Thiago Ferreira Rodrigues, Roberta Montanheiro Paolino, Natalia Fragas Versiani, Nielson Aparecido Pasqualotto Salvador, Edson Montilha de Oliveira, Adriano Garcia Chiarello.[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23411.svg)](http://dx.doi.org/10.5281/zenodo.23411)
 <p> </p>
 
 
-#####[Vampire Bats Bite Lowland Tapirs in Yasuni National Park, Ecuador.](http://dx.doi.org/10.5281/zenodo.22648 "Click for more details")
+#####[Factores protectores en la secreción láctea del tapir de tierras bajas (Tapirus terrestris) durante el periodo perinatal.](http://dx.doi.org/10.5281/zenodo.23411 "Link soon")
 
-######Castellanos, Armando; Banegas, Gabriela[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.22648.svg)](http://dx.doi.org/10.5281/zenodo.22648)
+######María Eugenia Pérez, Paula González Ciccia, Felipe Castro, Francisco M. Fernández[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.22648.svg)](http://dx.doi.org/10.5281/zenodo.22648)
 <p> </p>
 
 
