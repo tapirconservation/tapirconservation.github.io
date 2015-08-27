@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "Volume 24, Number 33, July 2015"
-subtitle:   "Crop-raiding Baird’s Tapir provoke subsistence farmers in Belize, a reintroduced Andean tapir attacks a person in Ecuador, occurrence data and distribution of Baird’s Tapir, and much more."
-date:       2015-06-30 12:00:00
+title:      "Volume 23, Number 32, July 2014"
+subtitle:   "Estimating tapir densities using camera traps, protected areas in Brazil for the lowland tapir, dietary habits of the Baird's tapirs in Colombia, and much more."
+date:       2014-06-30 12:00:00
 author:     "Tapir Conservation Editor"
-header-img: "img/July2015cover.jpg"
+header-img: "img/July2014cover.jpg"
 ---
 
 #####[Presencia y primeras fotografías del Tapir de Tierras Bajas (_Tapirus terrestris_) en el Parque Nacional Natural Paramillo, Córdoba, Colombia.](http://dx.doi.org/10.5281/zenodo.23411 "Click for more details")
@@ -48,7 +48,3 @@ header-img: "img/July2015cover.jpg"
 
 
 
-
-
-
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
