@@ -1,0 +1,49 @@
+---
+layout:     post
+title:      "Volume 22, Number 31, December 2013"
+subtitle:   "Camera-trap Records of Mountain Tapir in Puracé National Park, Colombia, First Report of Positive Serological Response to the Hemoparasite, Identifying an Effective Treatment for Corneal Ulceration in Captive Tapirs, and much more."
+date:       2013-12-30 12:00:00
+author:     "Tapir Conservation Editor"
+header-img: "img/Dec2013cover.jpg"
+---
+
+#####[Camera-trap Records of Mountain Tapir in Puracé National Park, Colombia.](http://dx.doi.org/10.5281/zenodo.23411 "Link soon")
+
+######Sebastián Duque López, Melissa Abud, Humberto Calero, Stephany Valderrama.[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23411.svg)](http://dx.doi.org/10.5281/zenodo.23411)
+<p> </p>
+
+
+#####[First Report of Positive Serological Response to the Hemoparasite, Babesia caballi, in Mountain Tapir.](http://dx.doi.org/10.5281/zenodo.23411 "Link soon")
+
+######Armando X. Castellanos P.[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.22648.svg)](http://dx.doi.org/10.5281/zenodo.22648)
+<p> </p>
+
+
+
+#####[Tapir Conservation Trundles Forward in Belize](http://dx.doi.org/10.5281/zenodo.22642 "Click for more details")
+
+######Jamal Andrewin-Bohn[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.22642.svg)](http://dx.doi.org/10.5281/zenodo.22642)
+<p> </p>
+
+
+
+#####[Identifying an Effective Treatment for Corneal Ulceration in Captive Tapirs.](http://dx.doi.org/10.5281/zenodo.23408 "Click for more details")
+
+######Mari-Ann O. Da Silva, Catalina Hermoza, Gianmarco Rojas, J. Michelle Freundt[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23408.svg)](http://dx.doi.org/10.5281/zenodo.23408)
+<p> </p>
+
+
+
+#####[Immobilization of Baird’s Tapir (Tapirus bairdii) Using Thiafenthanil Oxalate (A-3080) in Combination with Xylazine and Ketamine](http://dx.doi.org/10.5281/zenodo.23415 "Click for more details")
+
+######Jonathan Pérez Flores[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23415.svg)](http://dx.doi.org/10.5281/zenodo.23415)
+<p> </p>
+
+
+#####[Iridium/GPS Telemetry to Study Home Range and Population Density of Mountain Tapirs in the Rio Papallacta Watershed, Ecuador](http://dx.doi.org/10.5281/zenodo.23415 "Click for more details")
+
+######Armando X. Castellanos P.[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23415.svg)](http://dx.doi.org/10.5281/zenodo.23415)
+<p> </p>
+
+
+
