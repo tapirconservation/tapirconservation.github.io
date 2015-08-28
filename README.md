@@ -2,7 +2,7 @@
 
 Tapir Conservation is the oficial Newsletter of the [IUCN/SSC Tapir Specialist Group](http://www.tapirs.org). The views expressed in Tapir Conservation are those of the authors and do not necessarily reflect those of the IUCN/SSC Tapir Specialist Group.
 
-![alt text](img/tsg_logo.png)
+![alt text](http://www.tapirs.org/Downloads/tsg-brand-docs/tsg_logo.gif)
 
 This site was build on Clean Blog by Start Bootstrap - Jekyll Version
 
