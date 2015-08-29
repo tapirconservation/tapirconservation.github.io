@@ -8,6 +8,7 @@ url: "http://tapirconservation.github.io"
 twitter_username: IUCN_Tapirs 
 github_username:  tapirconservation
 facebook_username:  92574779179
+web_username: www.tapirs.org
 
 # Build settings
 markdown: kramdown
