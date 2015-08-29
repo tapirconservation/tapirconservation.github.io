@@ -6,8 +6,8 @@ description: "The IUCN/SSC Tapir Specialist Group publishes Tapir Conservation t
 baseurl: ""
 url: "http://tapirconservation.github.io"
 twitter_username: IUCN_Tapirs 
-github_username:  dlizcano
-facebook_username:  Tapir-Specialist-Group
+github_username:  tapirconservation
+facebook_username:  92574779179
 
 # Build settings
 markdown: kramdown
