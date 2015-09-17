@@ -20,14 +20,14 @@ header-img: "img/July2014cover.jpg"
 
 
 
-#####[Densidad y hábitos alimentarios de la danta Tapirus bairdii en el Parque Nacional Natural Los Katios, Colombia](http://tapirconservation.github.io/extra/Vol23_Issue32/Mejia2014.pdf "PDF")
+#####[Densidad y hábitos alimentarios de la danta Tapirus bairdii en el Parque Nacional Natural Los Katios, Colombia.](http://tapirconservation.github.io/extra/Vol23_Issue32/Mejia2014.pdf "PDF")
 
 ######Sebastián Mejía-Correa, Alberto Diaz-Martinez, Raul Molina.
 <p> </p>
 
 
 
-#####[Record of a mountain tapir attacked by an Andean bear on a camera trap](http://tapirconservation.github.io/extra/Vol23_Issue32/Rodriguez2014.pdf "PDF")
+#####[Record of a mountain tapir attacked by an Andean bear on a camera trap.](http://tapirconservation.github.io/extra/Vol23_Issue32/Rodriguez2014.pdf "PDF")
 
 ######Abelardo Rodriguez, Ruben Gomez, Angelica Moreno, Carlos Cuellar, Diego J. Lizcano.
 <p> </p>

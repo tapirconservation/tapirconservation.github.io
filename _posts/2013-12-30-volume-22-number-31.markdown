@@ -20,7 +20,7 @@ header-img: "img/Dec2013cover.jpg"
 
 
 
-#####[Tapir Conservation Trundles Forward in Belize](http://tapirconservation.github.io/extra/Vol23_Issue32/Andrewin2013.pdf "PDF")
+#####[Tapir Conservation Trundles Forward in Belize.](http://tapirconservation.github.io/extra/Vol23_Issue32/Andrewin2013.pdf "PDF")
 
 ######Jamal Andrewin-Bohn.
 <p> </p>
@@ -34,13 +34,13 @@ header-img: "img/Dec2013cover.jpg"
 
 
 
-#####[Immobilization of Baird’s Tapir (Tapirus bairdii) Using Thiafenthanil Oxalate (A-3080) in Combination with Xylazine and Ketamine](http://tapirconservation.github.io/extra/Vol23_Issue32/Perez2013.pdf "PDF")
+#####[Immobilization of Baird’s Tapir (Tapirus bairdii) Using Thiafenthanil Oxalate (A-3080) in Combination with Xylazine and Ketamine.](http://tapirconservation.github.io/extra/Vol23_Issue32/Perez2013.pdf "PDF")
 
 ######Jonathan Pérez Flores.
 <p> </p>
 
 
-#####[Iridium/GPS Telemetry to Study Home Range and Population Density of Mountain Tapirs in the Rio Papallacta Watershed, Ecuador](http://tapirconservation.github.io/extra/Vol23_Issue32/Castellanos2013_2.pdf "PDF")
+#####[Iridium/GPS Telemetry to Study Home Range and Population Density of Mountain Tapirs in the Rio Papallacta Watershed, Ecuador.](http://tapirconservation.github.io/extra/Vol23_Issue32/Castellanos2013_2.pdf "PDF")
 
 ######Armando X. Castellanos P.
 <p> </p>
