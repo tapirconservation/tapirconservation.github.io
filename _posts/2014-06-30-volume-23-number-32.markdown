@@ -7,13 +7,14 @@ author:     "Tapir Conservation Editor"
 header-img: "img/July2014cover.jpg"
 ---
 
-#####[The lowland tapir Tapirus terrestris is back to the largest protected area of Cerrado in the state of São Paulo, Brazil
+#####The lowland tapir Tapirus terrestris is back to the largest protected area of Cerrado in the state of São Paulo, Brazil.
 <a href="http://tapirconservation.github.io/extra/Vol23_Issue32/Ferreira2014.pdf">
        <span class="fa-stack fa-lg">
        <i class="fa fa-circle fa-stack-1x"></i>
        <i class="fa fa-file-pdf-o fa-stack-1x fa-inverse"></i>
        </span>
        </a>
+	   
 ######Thiago Ferreira Rodrigues, Roberta Montanheiro Paolino, Natalia Fragas Versiani, Nielson Aparecido Pasqualotto Salvador, Edson Montilha de Oliveira, Adriano Garcia Chiarello.
 <p> </p>
 
