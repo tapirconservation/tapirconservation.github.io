@@ -13,30 +13,30 @@ header-img: "img/July2014cover.jpg"
 <p> </p>
 
 
-#####[Factores protectores en la secreción láctea del tapir de tierras bajas (Tapirus terrestris) durante el periodo perinatal.](http://dx.doi.org/10.5281/zenodo.23411 "Link soon")
+#####[Factores protectores en la secreción láctea del tapir de tierras bajas (Tapirus terrestris) durante el periodo perinatal.](http://tapirconservation.github.io/extra/Vol23_Issue32/Perez2014.pdf "PDF")
 
-######María Eugenia Pérez, Paula González Ciccia, Felipe Castro, Francisco M. Fernández[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.22648.svg)](http://dx.doi.org/10.5281/zenodo.22648)
+######María Eugenia Pérez, Paula González Ciccia, Felipe Castro, Francisco M. Fernández.
 <p> </p>
 
 
 
-#####[Densidad y hábitos alimentarios de la danta Tapirus bairdii en el Parque Nacional Natural Los Katios, Colombia](http://dx.doi.org/10.5281/zenodo.22642 "Click for more details")
+#####[Densidad y hábitos alimentarios de la danta Tapirus bairdii en el Parque Nacional Natural Los Katios, Colombia](http://tapirconservation.github.io/extra/Vol23_Issue32/Mejia2014.pdf "PDF")
 
-######Sebastián Mejía-Correa, Alberto Diaz-Martinez, Raul Molina[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.22642.svg)](http://dx.doi.org/10.5281/zenodo.22642)
+######Sebastián Mejía-Correa, Alberto Diaz-Martinez, Raul Molina.
 <p> </p>
 
 
 
-#####[Record of a mountain tapir attacked by an Andean bear on a camera trap](http://dx.doi.org/10.5281/zenodo.23408 "Click for more details")
+#####[Record of a mountain tapir attacked by an Andean bear on a camera trap](http://tapirconservation.github.io/extra/Vol23_Issue32/Rodriguez2014.pdf "PDF")
 
-######Abelardo Rodriguez, Ruben Gomez, Angelica Moreno, Carlos Cuellar, Diego J. Lizcano[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23408.svg)](http://dx.doi.org/10.5281/zenodo.23408)
+######Abelardo Rodriguez, Ruben Gomez, Angelica Moreno, Carlos Cuellar, Diego J. Lizcano.
 <p> </p>
 
 
 
-#####[Actividades petroleras en la Amazonía: ¿Nueva amenaza para las poblaciones de tapir?](http://dx.doi.org/10.5281/zenodo.23415 "Click for more details")
+#####[Actividades petroleras en la Amazonía: ¿Nueva amenaza para las poblaciones de tapir?](http://tapirconservation.github.io/extra/Vol23_Issue32/Mayor2014.pdf "PDF")
 
-######Pedro Mayor, Antoni Rosell, Mar Cartró-Sabaté, Martí OrtaMartínez[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.23415.svg)](http://dx.doi.org/10.5281/zenodo.23415)
+######Pedro Mayor, Antoni Rosell, Mar Cartró-Sabaté, Martí OrtaMartínez.
 <p> </p>
 
 
